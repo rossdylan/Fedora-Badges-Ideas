@@ -1,5 +1,4 @@
 Submit your first package review
-Complete your first package review swap
+Complete your first package review of another individual
 Push your first update using bodhi
 Complete your first build with koji
-
