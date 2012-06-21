@@ -1,5 +1,0 @@
-Submit your first package review
-Complete your first package review of another individual
-Push your first update using bodhi
-Complete your first successfull build with koji
-Push to the Fedora Package Repository
